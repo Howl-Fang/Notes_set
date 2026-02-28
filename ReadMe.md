@@ -1,3 +1,5 @@
+<center><font size=5><b>Notes_HF</b></font></center>
+
 This is the note set generated during tinkering computers.
 
 The idea came from a friend in university, who does records on many things and thoughts. 
