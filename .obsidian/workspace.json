@@ -11,10 +11,15 @@
             "id": "3d1dfee3e58f5bff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ReadMe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "ReadMe"
             }
           }
         ]
@@ -134,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,10 +149,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6badce8f780e603",
+  "active": "3d1dfee3e58f5bff",
   "lastOpenFiles": [
-    "OpenGLM Rec.md",
     "OpenGLM/OpenGLM Rec.md",
+    "ReadMe.md",
+    "OpenGLM Rec.md",
     "OpenGLM/Main Ref. From Qwen_3.5_Plus@chat.qwen.com.md",
     "OpenGLM/CUDA OOM.md",
     "OpenGLM",
