@@ -1,0 +1,3 @@
+[submodule "Moonlight/AWDL"]
+	path = Moonlight/AWDL
+	url = https://github.com/Howl-Fang/Disable-AWDL-for-Moonlight-Streaming-on-Mac
