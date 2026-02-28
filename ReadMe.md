@@ -7,4 +7,4 @@ I hope the spirit could last long. Once I kept a diary book but it's getting una
 
 This repo was made to be public, but its owner might just changes the mind. However English is not my mother tongue,  I will use Chinese in most conditions.
 
-***The distant starts step by step.
+***The distant starts step by step.***
