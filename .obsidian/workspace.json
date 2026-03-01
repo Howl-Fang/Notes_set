@@ -155,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -164,7 +165,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6badce8f780e603",
+  "active": "4fd9be8c855c64c3",
   "lastOpenFiles": [
     "Moonlight/AWDL/res/disable_awdl_raw.sh",
     "Moonlight/AWDL/res/disable_awdl.sh",
