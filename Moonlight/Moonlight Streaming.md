@@ -11,3 +11,5 @@ I found an app [Parsec Virtual Display](https://github.com/nomi-san/parsec-vdd),
 Yet there are some issues, Parsec VD sometimes cannot launch when windows startup, so capture card is still needed. Also, after using capture card, it has to be re-plugged to PC or it will not work.
 
 ### AWDL caused jam
+Details in ./AWDL submodule.
+
