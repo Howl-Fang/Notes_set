@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "998b2e73e2847ceb",
+        "id": "670b5b924f412c78",
         "type": "tabs",
         "children": [
           {
-            "id": "3d1dfee3e58f5bff",
+            "id": "b0cd3418091924e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenGLM/OpenGLM Rec.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "OpenGLM Rec"
+              "title": "新标签页"
             }
           }
         ]
@@ -149,8 +144,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d1dfee3e58f5bff",
+  "active": "b0cd3418091924e7",
   "lastOpenFiles": [
+    "OpenGLM/OpenGLM Rec.md",
     "Moonlight/Moonlight Streaming.md",
     "Moonlight/AWDL/res/disable_awdl_raw.sh",
     "Moonlight/AWDL/res/disable_awdl.sh",
@@ -162,7 +158,6 @@
     "Moonlight/AWDL/Kill awdl0 old.zip",
     "Moonlight/AWDL",
     "parsec.app.md",
-    "OpenGLM/OpenGLM Rec.md",
     "Moonlight",
     "ReadMe.md",
     "OpenGLM Rec.md",
