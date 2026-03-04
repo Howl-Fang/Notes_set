@@ -1,4 +1,4 @@
-<center><font size=5><b>Notes_HF</b></font></center>
+<center><font size=5><b>Notes_HF</b></font><br><img src="https://avatars.githubusercontent.com/u/69738986?v=4" alt='HF_logo' width="50"></center>
 
 This is the note set generated during tinkering computers.
 
