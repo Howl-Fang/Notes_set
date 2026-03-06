@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ReadMe.md",
+                "file": "Website Build/Self website/Self website build.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ReadMe"
+              "title": "Self website build"
             }
           }
         ]
@@ -151,20 +151,26 @@
   },
   "active": "b0cd3418091924e7",
   "lastOpenFiles": [
+    "Website Build/Self website/Go-Bang.png",
+    "Website Build/Self website build.md",
+    "Website Build/Self website/Self website build.md",
+    "Website Build/Website for cdl/Website build for cdl.md",
+    "Website Build/Website for cdl",
+    "Website Build/未命名文件夹",
+    "Website Build/Self website",
+    "Website Build/Website build for cdl.md",
     "OpenGLM/OpenGLM Rec.md",
     "Moonlight/Moonlight Streaming.md",
+    "ReadMe.md",
+    "cn.aliyun.com.md",
+    "Website Build",
     "Moonlight/AWDL/res/disable_awdl_raw.sh",
     "Moonlight/AWDL/res/disable_awdl.sh",
     "Moonlight/AWDL/res/com.meter.wifi.awdl.plist",
     "Moonlight/AWDL/res",
     "Moonlight/AWDL/cleanup-and-reenable-awdl.sh",
     "Moonlight/AWDL/awdl-daemon.sh",
-    "Moonlight/AWDL/Readme.txt",
-    "Moonlight/AWDL/Kill awdl0 old.zip",
-    "Moonlight/AWDL",
     "parsec.app.md",
-    "Moonlight",
-    "ReadMe.md",
     "OpenGLM Rec.md",
     "OpenGLM/Main Ref. From Qwen_3.5_Plus@chat.qwen.com.md",
     "OpenGLM/CUDA OOM.md",
