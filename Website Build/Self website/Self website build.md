@@ -21,4 +21,5 @@ And in `./dist` folder is the completed webpage.
 Domain name required.
 
 Bought a new domain name.
-I tried to connect it with my github.io page, and it won't work. I also tried with 
+I tried to connect it with my github.io page, and it won't work. I also tried with sub domain name as cloudflare notices that CNAME does not fit root domain. It didn't work either.
+The way out is adding the domain to Github Page settings. And set CNAME to the root domain. Github will provide SSL License for the page of new domain.
