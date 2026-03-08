@@ -19,3 +19,6 @@ npm install --save-dev @vitejs/plugin-react
 And in `./dist` folder is the completed webpage.
 # Cloudflare Tunnel
 Domain name required.
+
+Bought a new domain name.
+I tried to connect it with my github.io page, and it won't work. I also tried with 
