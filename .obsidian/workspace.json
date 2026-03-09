@@ -148,10 +148,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0cd3418091924e7",
+  "active": "fce3957cfc7b4e59",
   "lastOpenFiles": [
-    "未命名.md",
+    "Website Build/Self website/Resources/Improving SSH's security with SSHFP DNS records | APNIC Blog.pdf",
+    "Website Build/Self website/Resources/未命名.md",
     "Website Build/Self website/Self website build.md",
+    "Website Build/Self website/Resources/未命名",
+    "Website Build/Self website/Resources",
+    "未命名.md",
     "Website Build/Self website/Go-Bang.png",
     "Website Build/Self website build.md",
     "Website Build/Website for cdl/Website build for cdl.md",
@@ -168,8 +172,6 @@
     "Moonlight/AWDL/res/disable_awdl.sh",
     "Moonlight/AWDL/res/com.meter.wifi.awdl.plist",
     "Moonlight/AWDL/res",
-    "Moonlight/AWDL/cleanup-and-reenable-awdl.sh",
-    "Moonlight/AWDL/awdl-daemon.sh",
     "parsec.app.md",
     "OpenGLM Rec.md",
     "OpenGLM/Main Ref. From Qwen_3.5_Plus@chat.qwen.com.md",

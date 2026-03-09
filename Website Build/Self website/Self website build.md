@@ -23,3 +23,7 @@ Domain name required.
 Bought a new domain name.
 I tried to connect it with my github.io page, and it won't work. I also tried with sub domain name as cloudflare notices that CNAME does not fit root domain. It didn't work either.
 The way out is adding the domain to Github Page settings. And set CNAME to the root domain. Github will provide SSL License for the page of new domain.
+
+# SSHFP DNS Record
+*Source in ./Resources*
+SSHFP records a public key of ssh server, avoiding man-in-middle attack. However openssh don't enables it in default. So use `ssh -o VerifyHostKeyDNS=yes server` or add `VerifyHostKeyDNS=yes` into `/etc/ssh/ssh_config`. And use `ssh-keyscan -D server` to generate forms for SSHFP records.
