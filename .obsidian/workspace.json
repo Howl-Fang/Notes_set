@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "670b5b924f412c78",
+        "id": "d07ef31cd98bea23",
         "type": "tabs",
         "children": [
           {
-            "id": "b0cd3418091924e7",
+            "id": "12aadf4ae2742a5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReadMe.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ReadMe"
+              "title": "新标签页"
             }
           }
         ]
@@ -148,13 +143,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0cd3418091924e7",
+  "active": "12aadf4ae2742a5d",
   "lastOpenFiles": [
+    "ReadMe.md",
+    "未命名.md",
     "OpenGLM/Main Ref. From Qwen_3.5_Plus@chat.qwen.com.md",
     "OpenGLM/OpenGLM Rec.md",
     "OpenGLM/CUDA OOM.md",
-    "ReadMe.md",
-    "未命名.md",
     "Website Build/Self website/Self website build.md",
     "Website Build/Self website/Resources/Improving SSH's security with SSHFP DNS records | APNIC Blog.pdf",
     "Website Build/Self website/Resources/未命名.md",
