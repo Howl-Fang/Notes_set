@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d07ef31cd98bea23",
+        "id": "0e4557ca36c47bc3",
         "type": "tabs",
         "children": [
           {
-            "id": "12aadf4ae2742a5d",
+            "id": "97364f9e7d335af4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Website Build/Website for cdl/Website build for cdl.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Website build for cdl"
             }
           }
         ]
@@ -143,21 +148,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12aadf4ae2742a5d",
+  "active": "97364f9e7d335af4",
   "lastOpenFiles": [
-    "ReadMe.md",
-    "未命名.md",
+    "OpenGLM/CUDA OOM.md",
     "OpenGLM/Main Ref. From Qwen_3.5_Plus@chat.qwen.com.md",
     "OpenGLM/OpenGLM Rec.md",
-    "OpenGLM/CUDA OOM.md",
+    "Website Build/Website for cdl/Website build for cdl.md",
     "Website Build/Self website/Self website build.md",
+    "Website Build/Self website/Go-Bang.png",
+    "ReadMe.md",
+    "未命名.md",
     "Website Build/Self website/Resources/Improving SSH's security with SSHFP DNS records | APNIC Blog.pdf",
     "Website Build/Self website/Resources/未命名.md",
     "Website Build/Self website/Resources/未命名",
     "Website Build/Self website/Resources",
-    "Website Build/Self website/Go-Bang.png",
     "Website Build/Self website build.md",
-    "Website Build/Website for cdl/Website build for cdl.md",
     "Website Build/Website for cdl",
     "Website Build/未命名文件夹",
     "Website Build/Self website",
